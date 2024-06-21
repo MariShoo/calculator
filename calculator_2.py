@@ -1,3 +1,4 @@
+# second file of calculator
 op_type = input ("choose an operation to use :")
 
 a = int(input("enter first number :"))
